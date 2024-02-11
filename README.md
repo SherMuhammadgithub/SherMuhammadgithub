@@ -1,24 +1,104 @@
-<h1 align="center">Hi 👋, I'm Sher Muhammad Iqbal!</h1>
-<h3 align="center">A passionate web developer from Pakistan</h3>
-<img align = "right" width = "500" src = "https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-computador-22.gif"> 
-- 🔭 I’m currently working on **Xpense(Expense Tracker) Project**
+<!DOCTYPE html>
+<html lang="en">
 
-- 🌱 I’m currently learning **Backend (NodeJS, ExpressJS )**
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sher Muhammad Iqbal - Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
 
-- 💬 Ask me about **react, next and gsap**
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
 
-- 📫 How to reach me **muhammadiqbalshermuhammad@gmail.com**
+        h1 {
+            text-align: center;
+            font-size: 2.5em;
+            color: #333;
+        }
 
-- ⚡ Fun fact **I am often get funny**
+        h3 {
+            font-size: 1.5em;
+            color: #444;
+        }
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/sher muhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sher muhammad" height="30" width="40" /></a>
-</p>
+        .profile-img {
+            float: right;
+            width: 50%;
+            margin-left: 20px;
+            border-radius: 10px;
+        }
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+        .bio {
+            clear: both;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shermuhammadgithub&show_icons=true&locale=en&layout=compact" alt="shermuhammadgithub" /></p>
+        .connect {
+            margin-top: 20px;
+        }
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shermuhammadgithub&" alt="shermuhammadgithub" /></p>
+        .connect a {
+            margin-right: 10px;
+            text-decoration: none;
+        }
+
+        .languages-tools {
+            margin-top: 20px;
+        }
+
+        .languages-tools img {
+            margin-right: 10px;
+            margin-bottom: 10px;
+        }
+
+        .github-stats {
+            margin-top: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Hi 👋, I'm Sher Muhammad Iqbal!</h1>
+        <div class="bio">
+            <img class="profile-img" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-computador-22.gif" alt="Profile Picture">
+            <ul>
+                <li>🔭 I’m currently working on <strong>Xpense(Expense Tracker) Project</strong></li>
+                <li>🌱 I’m currently learning <strong>Backend (NodeJS, ExpressJS )</strong></li>
+                <li>💬 Ask me about <strong>react, next and gsap</strong></li>
+                <li>📫 How to reach me <a href="mailto:muhammadiqbalshermuhammad@gmail.com">muhammadiqbalshermuhammad@gmail.com</a></li>
+                <li>⚡ Fun fact: <strong>I am often funny</strong></li>
+            </ul>
+            <div class="connect">
+                <h3>Connect with me:</h3>
+                <a href="https://fb.com/sher muhammad" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sher muhammad" height="30" width="40" /></a>
+            </div>
+            <div class="languages-tools">
+                <h3>Languages and Tools:</h3>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
+                <!-- Add other icons similarly -->
+            </div>
+        </div>
+        <div class="github-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shermuhammadgithub&show_icons=true&locale=en&layout=compact" alt="shermuhammadgithub">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=shermuhammadgithub" alt="shermuhammadgithub">
+        </div>
+    </div>
+</body>
+
+</html>
