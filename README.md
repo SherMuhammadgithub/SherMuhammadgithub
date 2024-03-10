@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sher Muhammad Iqbal!</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
-<img align = "right" width = "400" height = "400 src = "https://tse1.mm.bing.net/th?id=OIP.OZDWoC8NUTcFPOr4LzQM_QHaFj&pid=Api&P=0&h=220"> 
+<img align = "right" width = "400" height = "400 src = "https://miro.medium.com/v2/resize:fit:786/format:webp/0*nIrVMggPB7pe6dLJ.gif"> 
 - 🔭 I’m currently working on **Xpense(Expense Tracker) Project**
 
 - 🌱 I’m currently learning **Backend (NodeJS, ExpressJS )**
