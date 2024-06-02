@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sher Muhammad Iqbal!</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
-<p align="center">
+<p align="left">
   🔭 I’m currently working on <strong>Xpense(Expense Tracker) Project</strong><br>
   🌱 I’m currently learning <strong>Backend (NodeJS, ExpressJS)</strong><br>
   💬 Ask me about <strong>React, Next.js, and GSAP</strong><br>
@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
   </a>
