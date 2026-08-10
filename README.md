@@ -1,74 +1,112 @@
-<h1 align="center">Hi 👋, I'm Sher Muhammad Iqbal!</h1>
-<h3 align="center">A passionate web developer from Pakistan</h3>
+<h1 align="center">Hi, I'm Sher Muhammad Iqbal</h1>
+<h3 align="center">Full-Stack Developer — Angular · NestJS · Real-Time Systems</h3>
 
-<p align="left">
-  🔭 I’m currently working on <strong>Xpense(Expense Tracker) Project</strong><br>
-  🌱 I’m currently learning <strong>Backend (NodeJS, ExpressJS)</strong><br>
-  💬 Ask me about <strong>React, Next.js, and GSAP</strong><br>
-  📫 How to reach me <strong>muhammadiqbalshermuhammad@gmail.com</strong><br>
-  ⚡ Fun fact <strong>I often get funny</strong>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://fb.com/sher muhammad" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sher muhammad" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-  </a>
-  <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a>
+  Building distributed backends, real-time streaming pipelines, and AI-powered products.<br/>
+  2+ years across 3 companies · Currently at <strong>HS Technologies</strong> · BS CS @ UET Lahore (2027)
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sher-muhammad-448588290" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://shermuhammad.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:muhammadiqbalshermuhammad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Lahore,_Pakistan-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+</p>
+
+---
+
+### What I'm Doing
+
+<p align="left"><img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt=""/></p>
+
+Building distributed **NestJS** backends and **Angular** frontends at **HS Technologies**
+
+<p align="left"><img src="https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt=""/></p>
+
+Owned the live-streaming module (FFmpeg → MediaMTX → WebRTC) for an enterprise vehicle surveillance platform
+
+<p align="left"><img src="https://img.shields.io/badge/-OpenAI_Realtime_API-412991?style=flat-square&logo=openai&logoColor=white" alt=""/></p>
+
+Shipping real-time AI voice agents with the OpenAI Realtime API + WebRTC
+
+<p align="left"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt=""/></p>
+
+Deepening backend skills — distributed systems, message queues, and DB internals
+
+**Ask me about:** Angular, NestJS, React/Next.js, WebRTC, and real-time systems
+
+---
+
+### Tech Stack
+
+**Core**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="40" height="40"/>
+</p>
+
+**Also strong with**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socketio" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+</p>
+
+**AI / Real-time**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI_Realtime_API-412991?style=flat-square&logo=openai&logoColor=white" alt="openai"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="webrtc"/>
+  <img src="https://img.shields.io/badge/Qdrant_Vector_DB-DC244C?style=flat-square" alt="qdrant"/>
+  <img src="https://img.shields.io/badge/BullMQ-FF3838?style=flat-square" alt="bullmq"/>
+</p>
+
+**Also used:** FFmpeg · MediaMTX · React Native · Kotlin · Electron · Deno · FastAPI · C# · PHP · MySQL · MongoDB · Firebase · Supabase · Stripe · Twilio · SignalR · RxJS · Zustand
+
+---
+
+### Featured Projects
+
+**VXS — Vehicle Surveillance & Access Control** *(company project)*
+`NestJS` `TypeScript` `PostgreSQL` `TypeORM` `Socket.IO` `FFmpeg` `MediaMTX` `WebRTC`
+Contributed to a 33-module NestJS backend for enterprise vehicle monitoring across a distributed VXS + DPU architecture. Owned the live-streaming pipeline (FFmpeg → MediaMTX → WebRTC/WHEP) with automatic reconnection and stuck-stream detection, plus a real-time WebSocket gateway for ANPR events and alarms.
+
+**CallDraft — AI Voice Agent** *(personal project)*
+`Next.js` `TypeScript` `OpenAI Realtime API` `WebRTC`
+Browser-based AI voice agent with live speech-to-speech conversation at sub-800ms latency, using ephemeral-token WebRTC auth, live transcript, and a real-time latency indicator.
+
+**Buy4Me — Cross-Border E-Commerce**
+`Angular 21` `NestJS 11` `MySQL` `Prisma` `Nx Monorepo` `Stripe` `Qdrant`
+Production platform for the Azerbaijan market: 4-app Nx monorepo, Qdrant-powered semantic product search, and a Stripe multi-currency wallet system, deployed on a VPS with PM2 + CI/CD.
+
+**PM Suite — Project Management Platform**
+`Angular` `Deno` `PostgreSQL`
+Full-stack PM platform combining Kanban boards, a Notion-style document editor, real-time messaging, and KPI dashboards — built as an offline-capable PWA with JWT auth and RBAC.
+
+**Real-Time Billing Engine**
+`Node.js` `Express` `TypeORM` `PostgreSQL` `Socket.IO`
+Server-authoritative medical billing system with pessimistic locking for concurrent session safety, doctor-client queue matching, and heartbeat-based session monitoring.
+
+---
+
+### GitHub Stats
+
+<p align="left">
+  <img src="./profile/stats.svg" alt="Sher's GitHub stats" height="165"/>
+  <img src="./profile/top-langs.svg" alt="Top languages" height="165"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shermuhammadgithub&show_icons=true&locale=en&layout=compact" alt="shermuhammadgithub" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shermuhammadgithub&" alt="shermuhammadgithub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SherMuhammadgithub" alt="Sher's GitHub streak"/>
 </p>
