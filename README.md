@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Sher Muhammad Iqbal</h1>
-<h3 align="center">Full-Stack Developer — Angular · NestJS · Real-Time Systems</h3>
+<h3 align="center">Full-Stack Developer + AI, RAG & Real-Time Systems</h3>
 
 <p align="center">
   Building distributed backends, real-time streaming pipelines, and AI-powered products.<br/>
-  2+ years across 3 companies · Currently at <strong>HS Technologies</strong> · BS CS @ UET Lahore (2027)
+  2+ years of professional experience· Currently at <strong>HS Technologies</strong> · BS CS @ UET Lahore (2027)
 </p>
 
 <p align="center">
