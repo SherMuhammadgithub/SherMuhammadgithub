@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Sher Muhammad Iqbal</h1>
-<h3 align="center">Full-Stack Developer + AI, RAG & Real-Time Systems</h3>
+<h3 align="center">Frontend-Focused Full-Stack Engineer · Angular, React & Next.js</h3>
 
 <p align="center">
-  Building distributed backends, real-time streaming pipelines, and AI-powered products.<br/>
-  2+ years of professional experience· Currently at <strong>HS Technologies</strong> · BS CS @ UET Lahore (2027)
+  Building scalable, performant web apps in Angular and React, backed by NestJS APIs, real-time systems, and AI features.<br/>
+  2+ years of professional experience · Currently at <strong>HS Technologies</strong> · BS CS @ UET Lahore (2027)
 </p>
 
 <p align="center">
@@ -17,51 +17,63 @@
 
 ### What I'm Doing
 
-<p align="left"><img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt=""/></p>
+<p align="left"><img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt=""/></p>
 
-Building distributed **NestJS** backends and **Angular** frontends at **HS Technologies**
+Building production **Angular 21** frontends in an Nx monorepo at **HS Technologies**: shared component libraries, payment and wallet flows, and order tracking screens
+
+<p align="left"><img src="https://img.shields.io/badge/-React_/_Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt=""/></p>
+
+Shipping **React** and **Next.js** apps in TypeScript and Tailwind, from booking platforms to a browser-based AI voice agent
 
 <p align="left"><img src="https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt=""/></p>
 
-Owned the live-streaming module (FFmpeg → MediaMTX → WebRTC) for an enterprise vehicle surveillance platform
+Building real-time UIs on WebSockets and WebRTC: live video, live transcripts, and event dashboards
 
-<p align="left"><img src="https://img.shields.io/badge/-OpenAI_Realtime_API-412991?style=flat-square&logo=openai&logoColor=white" alt=""/></p>
+<p align="left"><img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt=""/></p>
 
-Shipping real-time AI voice agents with the OpenAI Realtime API + WebRTC
+Backing the frontend with **NestJS** and Node.js APIs, so I can own a feature from the UI down to the database
 
-<p align="left"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt=""/></p>
-
-Deepening backend skills — distributed systems, message queues, and DB internals
-
-**Ask me about:** Angular, NestJS, React/Next.js, WebRTC, and real-time systems
+**Ask me about:** Angular, React/Next.js, TypeScript, component architecture, real-time UIs, and NestJS
 
 ---
 
 ### Tech Stack
 
-**Core**
+**Frontend (core)**
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 </p>
 
-**Also strong with**
+`Angular 15–21` `React` `Next.js` `TypeScript` `Tailwind CSS` `Redux Toolkit` `PrimeNG` `Nx Monorepo` `RxJS` `Zustand` `Responsive UI` `Real-time UIs`
+
+**Backend & Data (also strong)**
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socketio" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socketio" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
 </p>
+
+**Tooling & Delivery**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</p>
+
+Git · CI/CD · Docker · Nx · PM2
 
 **AI / Real-time**
 
@@ -78,21 +90,21 @@ Deepening backend skills — distributed systems, message queues, and DB interna
 
 ### Featured Projects
 
-**VXS — Vehicle Surveillance & Access Control** *(company project)*
-`NestJS` `TypeScript` `PostgreSQL` `TypeORM` `Socket.IO` `FFmpeg` `MediaMTX` `WebRTC`
-Contributed to a 33-module NestJS backend for enterprise vehicle monitoring across a distributed VXS + DPU architecture. Owned the live-streaming pipeline (FFmpeg → MediaMTX → WebRTC/WHEP) with automatic reconnection and stuck-stream detection, plus a real-time WebSocket gateway for ANPR events and alarms.
+**Buy4Me — Cross-Border E-Commerce** *(frontend: Angular 21)*
+`Angular 21` `TypeScript` `Nx Monorepo` `NestJS 11` `MySQL` `Prisma` `Stripe` `Qdrant`
+Production platform for the Azerbaijan market. A 4-app Nx monorepo with shared Angular libraries, payment and multi-currency wallet screens, order and shipment tracking, and Qdrant-powered semantic product search. Deployed on a VPS with PM2 + CI/CD.
+
+**PM Suite — Project Management Platform**
+`Angular` `TypeScript` `Deno` `PostgreSQL`
+Full-stack PM platform with Kanban boards, a Notion-style document editor, real-time messaging, and KPI dashboards. Built as an offline-capable PWA with JWT auth and RBAC.
 
 **CallDraft — AI Voice Agent** *(personal project)*
 `Next.js` `TypeScript` `OpenAI Realtime API` `WebRTC`
-Browser-based AI voice agent with live speech-to-speech conversation at sub-800ms latency, using ephemeral-token WebRTC auth, live transcript, and a real-time latency indicator.
+Browser-based AI voice agent with live speech-to-speech conversation at sub-800ms latency, using ephemeral-token WebRTC auth, a live transcript, and a real-time latency indicator.
 
-**Buy4Me — Cross-Border E-Commerce**
-`Angular 21` `NestJS 11` `MySQL` `Prisma` `Nx Monorepo` `Stripe` `Qdrant`
-Production platform for the Azerbaijan market: 4-app Nx monorepo, Qdrant-powered semantic product search, and a Stripe multi-currency wallet system, deployed on a VPS with PM2 + CI/CD.
-
-**PM Suite — Project Management Platform**
-`Angular` `Deno` `PostgreSQL`
-Full-stack PM platform combining Kanban boards, a Notion-style document editor, real-time messaging, and KPI dashboards — built as an offline-capable PWA with JWT auth and RBAC.
+**VXS — Vehicle Surveillance & Access Control** *(company project)*
+`NestJS` `TypeScript` `PostgreSQL` `TypeORM` `Socket.IO` `FFmpeg` `MediaMTX` `WebRTC`
+Contributed to a 33-module NestJS backend for enterprise vehicle monitoring across a distributed VXS + DPU architecture. Owned the live-streaming pipeline (FFmpeg → MediaMTX → WebRTC/WHEP) with automatic reconnection and stuck-stream detection, plus a real-time WebSocket gateway for ANPR events and alarms.
 
 **Real-Time Billing Engine**
 `Node.js` `Express` `TypeORM` `PostgreSQL` `Socket.IO`
