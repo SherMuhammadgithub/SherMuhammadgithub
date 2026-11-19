@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sher Muhammad Iqbal</h1>
-<h3 align="center">Frontend-Focused Full-Stack Engineer · Angular, React & Next.js</h3>
+<h3 align="center">Full-Stack Engineer · Angular, React & Next.js</h3>
 
 <p align="center">
   Building scalable, performant web apps in Angular and React, backed by NestJS APIs, real-time systems, and AI features.<br/>
